@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051394448105",
+    "project_id": "notesapp-firebase-aeac0",
+    "storage_bucket": "notesapp-firebase-aeac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051394448105:android:3138fc9dc33d13d33a2e78",
+        "android_client_info": {
+          "package_name": "com.droidvisuals.notesappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLiD5M_xZOZWxNgUPw3SosoUAgEz8X74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
